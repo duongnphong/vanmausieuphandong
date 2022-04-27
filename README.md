@@ -9,7 +9,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/last-commit/flyingfishh/vanmausieuphandong?color=yellow&logo=github&style=flat-square"></a>
   <a href=""><img src="https://img.shields.io/github/contributors/flyingfishh/vanmausieuphandong?color=orange&style=flat-square"></a>
-  <a href=""><img src="https://img.shields.io/discord/644592617090318346?color=blue&logo=discord&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/discord/644592617090318346?color=blue&logo=discord&logoColor=white&style=flat-square"></a>
 </p>
 
 ```sh
