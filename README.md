@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://flyingfishh.github.io/vanmausieuphandong.github.io/"><img src="img/logo.png" alt="VanMauSieuPhanDong" width="200"></a>
+  <a href="https://flyingfishh.github.io/vanmausieuphandong/"><img src="img/logo.png" alt="VanMauSieuPhanDong" width="200"></a>
   <br>
   Van Mau Sieu Phan Dong
   <br>
