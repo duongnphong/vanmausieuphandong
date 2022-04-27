@@ -1,7 +1,6 @@
 # Van Mau Sieu Phan Dong!
 https://flyingfishh.github.io/vanmausieuphandong.github.io/
 
-![GitHub last commit](https://img.shields.io/github/last-commit/flyingfishh/vanmausieuphandong?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/flyingfishh/vanmausieuphandong?color=yellow&logo=github&style=flat-square)
 ```bash
 ______  _                    ______                     
